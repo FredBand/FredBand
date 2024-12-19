@@ -8,7 +8,9 @@ com o objetivo de, no futuro, me especializar na área de IA e contribuir para p
 🌟 Interesses
 
 Programação: Resolver problemas, construir soluções e aprender novas tecnologias.
+
 Inteligência Artificial: Explorar o aprendizado de máquinas, redes neurais e o impacto da IA no mundo.
+
 Desenvolvimento de Software: Criar aplicativos, automações e ferramentas úteis.
 
 🌱 Em andamento
@@ -26,7 +28,9 @@ as I work towards my goal of specializing in AI and contributing to innovative p
 🌟 Interests
 
 Programming: Solving problems, building solutions, and exploring new technologies.
+
 Artificial Intelligence: Diving into machine learning, neural networks, and the transformative potential of AI.
+
 Software Development: Crafting applications, automations, and practical tools.
 
 🌱 Currently
